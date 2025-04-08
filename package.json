@@ -1,0 +1,8 @@
+{
+  "name": "gerar-doc-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "cpf-cnpj-validator": "^1.0.5"
+  }
+}
