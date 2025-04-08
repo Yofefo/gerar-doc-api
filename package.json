@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "cpf-cnpj-validator": "^1.0.5"
+    "cpf-cnpj-validator": "^1.0.4",
+    "node-fetch": "^3.3.2"
   }
 }
